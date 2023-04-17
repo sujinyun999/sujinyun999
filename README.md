@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#6667AB&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#CDE29D&height=300&section=header)
 
 
