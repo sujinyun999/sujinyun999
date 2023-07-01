@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFEC4&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AEE2FF&height=120&section=header)
 
 #  Sujin Yun ๑•‿•๑ 
 
